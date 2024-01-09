@@ -95,8 +95,7 @@ rest.set('name', 'Viet Nam');
 rest.set(1, 'Nghệ An');
 console.log(rest.set(2, 'Trung Quốc'));
 
-rest 
-    .set
+
 
 
 
