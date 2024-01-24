@@ -19,7 +19,7 @@ function sum(...numbers) {
 
     return total;
 }
-
+        
 console.log(sum(1, 2, 3, 4, 5, 6, 100));
 
 // Objects as params
