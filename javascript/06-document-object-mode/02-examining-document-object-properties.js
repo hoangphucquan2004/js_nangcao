@@ -43,7 +43,7 @@ document.forms[0].id = 'new-id';
 // output = document.links[0].className = 'google-class';
 // output = document.links[0].classList;
 
-// Get all images
+// Get all images   
 output = document.images;
 output = document.images[0];
 output = document.images[0].src;
